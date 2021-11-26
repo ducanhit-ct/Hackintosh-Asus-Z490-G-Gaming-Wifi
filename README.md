@@ -1,4 +1,4 @@
-# [SUCCESS] Hackintosh Asus B460 G Gaming + Intel® Core™ i3 10100 Processors
+# Hackintosh-Asus-Z490-G-Gaming-Wifi-i5-10600K
 
 # Hardware
 
@@ -12,27 +12,27 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">Motherboard</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/" target="_blank" rel="noopener noreferrer">ROG STRIX B460-G GAMING</a></td>
+    <td class="tg-c3ow"><a href="https://rog.asus.com/motherboards/rog-strix/rog-strix-z490-g-gaming-wi-fi-model/" target="_blank" rel="noopener noreferrer">ROG STRIX Z490-G GAMING (WI-FI)</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">CPU</span></td>
-    <td class="tg-c3ow"><a href="https://ark.intel.com/content/www/us/en/ark/products/199283/intel-core-i3-10100-processor-6m-cache-up-to-4-30-ghz.html" target="_blank" rel="noopener noreferrer">Intel® Core™ i3-10100 Processor</a></td>
+    <td class="tg-c3ow"><a href="https://ark.intel.com/content/www/vn/vi/ark/products/199311/intel-core-i5-10600k-processor-12m-cache-up-to-4-80-ghz.html" target="_blank" rel="noopener noreferrer">Intel® Core™ i5-10600K Processor</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Ram</td>
     <td class="tg-c3ow"><a href="https://www.gskill.com/product/165/166/1536654268/F4-3200C16D-16GTZRTrident-Z-RGBDDR4-3200MHz-CL16-18-18-38-1.35V16GB-(2x8GB)" target="_blank" rel="noopener noreferrer">Trident Z RGB DDR4-3200MHz CL16-18-18-38 1.35V 16GB (2x8GB)</a></td>
-  </tr>
-   <tr>
-    <td class="tg-c3ow"><span style="font-style:normal">Wifi & Bluetooth</span></td>
-    <td class="tg-c3ow">BCM94360CS2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Graphics Card</td>
     <td class="tg-c3ow"><span style="font-style:normal">Intel UHD Graphics 630</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">BIOS Version</td>
-    <td class="tg-c3ow"><a href="https://rog.asus.com/vn/motherboards/rog-strix/rog-strix-b460-g-gaming-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 1401</a></td>
+    <td class="tg-c3ow"><span style="font-style:normal">WiFi</span></td>
+    <td class="tg-c3ow"><a href="https://ark.intel.com/content/www/us/en/ark/products/130293/intel-wi-fi-6-ax201-gig.html" target="_blank" rel="noopener noreferrer">Intel® Wi-Fi 6 AX201</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">BIOS</td>
+    <td class="tg-c3ow"><a href="https://rog.asus.com/motherboards/rog-strix/rog-strix-z490-g-gaming-wi-fi-model/helpdesk_bios" target="_blank" rel="noopener noreferrer">Version 2103</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-style:normal">OpenCore Version</span></td>
@@ -56,27 +56,27 @@ Working
 - [x] QE/CI
 - [x] Restart, Sleep and Shutdown
 - [x] CPU Power Management
-- [x] Ethernet Intel® I219-V 1Gb Ethernet
 - [x] Audio Jack Rear and Front (Realtek ALC S1220A)
+- [x] Wifi, Bluetooth
 - [x] HDMI,DP Audio
 - [x] iMessage, Facetime
-- [x] Wifi, Bluetooth, AirDrop, AirPlay, Handoff
 - [x] All Port USB and Super Speed USB 3.2
-- [x] USB Type-C
-
+ 
 Not working at the moment
 
-- [ ] USB Type-C Audio
+- [ ] Ethernet Intel I225-V
+- [ ] AirDrop
 
+Not tested
+
+- [ ] Handoff
+- [ ] Sidecar
+- [ ] USB Type-C
 
 # Screenshot
 
-
-![AboutThisMac](https://user-images.githubusercontent.com/68510491/141107114-1e4482aa-872c-430f-8d12-8290f3847fd2.png)
-
-![Hackintool-1](https://user-images.githubusercontent.com/68510491/141107163-620b5b1e-cdc2-4e90-9c56-2e272755a91b.png)
-
-![Geekbench](https://user-images.githubusercontent.com/68510491/141116556-f10ee7df-7794-40fb-bd84-942bd565a0fd.png)
-
+![Screen Shot 2021-11-10 at 8 05 48 PM](https://user-images.githubusercontent.com/68510491/141125244-ac9306db-c6ed-4505-9817-3cafab6d89a3.png)
+![Screen Shot 2021-11-10 at 8 27 15 PM](https://user-images.githubusercontent.com/68510491/141125259-a1328506-e1c9-4882-8556-9974d77e0f80.png)
+![Screen Shot 2021-11-10 at 8 38 23 PM](https://user-images.githubusercontent.com/68510491/141125268-ab1a30f8-8b88-4845-9342-c046a248b4b1.png)
 
 
